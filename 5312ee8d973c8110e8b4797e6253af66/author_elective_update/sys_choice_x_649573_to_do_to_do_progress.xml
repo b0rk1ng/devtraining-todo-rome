@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="progress" table="x_649573_to_do_to_do" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>progress</element>
+            <name>x_649573_to_do_to_do</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-31 17:50:48</sys_created_on>
+            <sys_id>577f2a0d977c8110e8b4797e6253af17</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>progress</sys_name>
+            <sys_package display_value="To Do" source="x_649573_to_do">5312ee8d973c8110e8b4797e6253af66</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="To Do">5312ee8d973c8110e8b4797e6253af66</sys_scope>
+            <sys_update_name>sys_choice_x_649573_to_do_to_do_progress</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-31 17:50:48</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>progress</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Not Started</label>
+            <language>en</language>
+            <name>x_649573_to_do_to_do</name>
+            <sequence>10</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-31 17:50:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9b7f2a0d977c8110e8b4797e6253af16</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-31 17:50:48</sys_updated_on>
+            <value>not_started</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>progress</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>In Progress</label>
+            <language>en</language>
+            <name>x_649573_to_do_to_do</name>
+            <sequence>20</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-31 17:50:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>937f2a0d977c8110e8b4797e6253af21</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-31 17:50:48</sys_updated_on>
+            <value>in_progress</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>progress</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Done</label>
+            <language>en</language>
+            <name>x_649573_to_do_to_do</name>
+            <sequence>30</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-31 17:50:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a77f2a0d977c8110e8b4797e6253af1a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-31 17:50:49</sys_updated_on>
+            <value>done</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>progress</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Cancelled</label>
+            <language>en</language>
+            <name>x_649573_to_do_to_do</name>
+            <sequence>40</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-31 17:50:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>637f2a0d977c8110e8b4797e6253af25</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-31 17:50:49</sys_updated_on>
+            <value>cancelled</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>
